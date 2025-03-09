@@ -14,6 +14,7 @@
 
 <!-- ABOUT ME SECTION -->
 <h2>🧑‍💻 About Me</h2>
+
 <!-- TECH STACK SECTION -->
 <h2>🛠️ My Favorite Tools</h2>
 <p align="center">
@@ -51,7 +52,7 @@
 <!-- SPOTIFY PLAYING -->
 <h2>🎵 Now Playing</h2>
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31oc4ooq5alsvpqsohcjzfpgj4zy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
 </div>
 
 <!-- SOCIAL LINKS -->
