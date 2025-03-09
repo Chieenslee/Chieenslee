@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on **[Your Current Project](Project Link)**
 
-- 🌱 I'm currently learning **Frontend Development**
+- 🌱 I'm currently learning **DEVELOPER**
 
 - 👯 I'm looking to collaborate on **OpenSource Projects**
 
