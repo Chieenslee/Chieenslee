@@ -14,26 +14,6 @@
 
 <!-- ABOUT ME SECTION -->
 <h2>🧑‍💻 About Me</h2>
-javascript
-const chieenslee = {
-pronouns: "He" | "Him",
-code: ["Javascript", "HTML", "CSS"],
-askMeAbout: ["web dev", "tech", "gaming"],
-technologies: {
-frontEnd: {
-js: ["React", "Vue"],
-css: ["bootstrap", "sass", "tailwind"]
-},
-backEnd: {
-js: ["Node", "Express"],
-},
-databases: ["MongoDB", "MySQL"],
-tools: ["VS Code", "Postman", "Git"]
-},
-currentFocus: "Frontend Development",
-funFact: "There are two ways to write error-free programs; only the third one works"
-};
-
 <!-- TECH STACK SECTION -->
 <h2>🛠️ My Favorite Tools</h2>
 <p align="center">
