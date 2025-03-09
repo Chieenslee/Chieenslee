@@ -48,14 +48,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chieenslee/Chieenslee/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chieenslee/Chieenslee/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chieenslee/Chieenslee/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!-- SPOTIFY PLAYING -->
-<h2>🎵 Now Playing</h2>
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31oc4ooq5alsvpqsohcjzfpgj4zy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-</div>
 
 <!-- SOCIAL LINKS -->
 <h2>🌐 Connect With Me</h2>
@@ -73,5 +66,3 @@
   <img src="https://komarev.com/ghpvc/?username=Chieenslee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
-<!-- FOOTER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=120&section=footer"/>
