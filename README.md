@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lc0949523331@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I really enjoy listening to music.**
 
 ## 🚀 Languages and Tools:
 
