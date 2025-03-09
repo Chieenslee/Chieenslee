@@ -17,36 +17,61 @@
 
 - ⚡ Fun fact **I really enjoy listening to music.**
 
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-</p>
-
-## 📊 My Github Stats
-
+<!-- TECH STACK SECTION -->
+<h2>🛠️ My Favorite Tools</h2>
 <p align="center">
-    <a href="https://github.com/Chieenslee/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chieenslee's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Chieenslee&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,py,java,vscode,git&perline=5" />
 </p>
+
+<!-- GITHUB STATS SECTION -->
+<h2>📊 Github Stats and Activity</h2>
+
 <div align="center">
-    <a href="https://github.com/Chieenslee/github-readme-stats"><img alt="Chieenslee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chieenslee&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/Chieenslee/github-readme-stats"><img alt="Chieenslee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chieenslee&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chieenslee&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chieenslee&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## Connect with me:
-<p align="left">
-<a href = "https://www.facebook.com/profile.php?id=100036699263022&sk=about"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-</p>
+<!-- GITHUB STREAK STATS -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chieenslee&theme=radical&hide_border=false" />
+</div>
 
-## ❤ Views and Followers
-<a href="https://github.com/Chieenslee/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Chieenslee">
-</a>
-<a href="https://github.com/Chieenslee?tab=followers"><img src="https://img.shields.io/github/followers/Chieenslee?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- GITHUB TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chieenslee&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
+</div>
+
+<!-- ACTIVITY GRAPH -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chieenslee&bg_color=141321&color=a8fdf6&line=f5becf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chieenslee/Chieenslee/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chieenslee/Chieenslee/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chieenslee/Chieenslee/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- SPOTIFY PLAYING -->
+<h2>🎵 Now Playing</h2>
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31oc4ooq5alsvpqsohcjzfpgj4zy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+</div>
+
+<!-- SOCIAL LINKS -->
+<h2>🌐 Connect With Me</h2>
+<div align="center">
+  <a href="https://www.facebook.com/profile.php?id=100036699263022" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a>
+  <a href="mailto:lc0949523331@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<!-- PROFILE VIEWS -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chieenslee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+<!-- FOOTER -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=120&section=footer"/>
