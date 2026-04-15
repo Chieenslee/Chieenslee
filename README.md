@@ -99,11 +99,7 @@
   <img src="./Images/source.gif" alt="Algorithms" width="100%" style="margin-bottom: 20px; border-radius: 10px; box-shadow: 0 0 10px #00FF00;"/>
 </div>
 
-```
-<br/>
-```
-
-<div align="center">
+<div align="center" style="margin-bottom: 20px>
   <table width="850" border="0" cellpadding="20" cellspacing="0" style="background-color: #0D1117; border: 1px solid #00FF00; border-radius: 10px;">
     <tr>
       <td width="40%" align="center" valign="middle">
@@ -149,7 +145,6 @@
     </tr>
   </table>
 </div>
-
 
 <div align="center">
   <table width="850" border="0" cellpadding="20" cellspacing="0" style="background-color: #0D1117; border: 1px solid #00FF00; border-radius: 10px;">
