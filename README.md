@@ -180,10 +180,10 @@
 <div align="center">
   <img src="./Images/neon_divider.svg" width="80%" />
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Chieenslee&label=SYSTEM%20VIEWS&color=00FF00&style=for-the-badge&base=0D1117" alt="Total Views" style="margin: 5px;"/>
+  <img src="https://komarev.com/ghpvc/?username=Chieenslee&label=SYSTEM%20VIEWS&color=00FF00&style=for-the-badge" alt="Total Views" style="margin: 5px;"/>
   <img src="https://img.shields.io/github/followers/Chieenslee?label=ALLIES&style=for-the-badge&color=00FF00&labelColor=0D1117" alt="Followers" style="margin: 5px;"/>
   <img src="https://img.shields.io/github/stars/Chieenslee?label=STARS&style=for-the-badge&color=00FF00&labelColor=0D1117" alt="Stars" style="margin: 5px;"/>
-  <img src="https://img.shields.io/github/repos/Chieenslee?label=REPOSITORIES&style=for-the-badge&color=00FF00&labelColor=0D1117" alt="Repos" style="margin: 5px;"/>
+  <img src="https://img.shields.io/github/last-commit/Chieenslee/Chieenslee?label=LAST%20DEPLOY&style=for-the-badge&color=00FF00&labelColor=0D1117" alt="Last Update" style="margin: 5px;"/>
   <br/><br/>
   <code style="color: #00FF00; font-size: 16px;">[CONNECTION TERMINATED - WAIT FOR NEXT INSTRUCTION]</code>
 </div>
