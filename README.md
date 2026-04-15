@@ -145,9 +145,6 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="./Images/Connect-with-me.gif" alt="Connect" width="300" style="margin-bottom: 20px;" />
-</div>
 
 <div align="center">
   <table width="850" border="0" cellpadding="20" cellspacing="0" style="background-color: #0D1117; border: 1px solid #00FF00; border-radius: 10px;">
@@ -171,6 +168,9 @@
   </table>
 </div>
 
+<div align="center">
+  <img src="./Images/Connect-with-me.gif" alt="Connect" width="300" style="margin-bottom: 20px;" />
+</div>
 <br/>
 <div align="center">
   <img src="./Images/neon_divider.svg" width="80%" />
