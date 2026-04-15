@@ -100,7 +100,7 @@
 </div>
 
 <div align="center">
-  <table width="850" border="0" cellpadding="20" cellspacing="0" style="background-color: #0D1117; border: 1px solid #00FF00; border-radius: 10px;">
+  <table width="850" border="0" cellpadding="20" cellspacing="0" style="background-color: #0D1117; border: 1px solid #00FF00; border-radius: 10px; 			  margin-bottom: 20px">
     <tr>
       <td width="40%" align="center" valign="middle">
         <img src="./Images/radar_scan.gif" width="180" style="border-radius: 10px; outline: 2px dashed #00FF00;" />
