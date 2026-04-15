@@ -103,7 +103,7 @@
   <table width="850" border="0" cellpadding="20" cellspacing="0" style="background-color: #0D1117; border: 1px solid #00FF00; border-radius: 10px;">
     <tr>
       <td width="40%" align="center" valign="middle">
-        <img src="./Images/source.gif" width="180" style="border-radius: 10px; outline: 2px dashed #00FF00;" />
+        <img src="./Images/radar_scan.gif" width="180" style="border-radius: 10px; outline: 2px dashed #00FF00;" />
       </td>
       <td width="60%" style="border-left: 2px solid #00FF00;">
         <blockquote style="border-left: 4px solid #00FF00; padding-left: 10px;">
@@ -124,7 +124,7 @@
 <br/>
 
 <div align="center">
-  <img src="./Images/Statistics.gif" alt="Statistics & Logs" width="100%" style="margin-bottom: 20px;" />
+  <img src="./Images/api.gif" alt="Statistics & Logs" width="100%" style="margin-bottom: 20px;" />
 </div>
 
 <div align="center">
