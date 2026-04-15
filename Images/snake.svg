@@ -1,0 +1,9 @@
+<svg width="800" height="150" viewBox="0 0 800 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="150" rx="10" fill="#0D1117" stroke="#00FF00" stroke-width="1"/>
+  <text x="400" y="60" font-family="Courier New, monospace" font-size="18" fill="#00FF00" text-anchor="middle">
+    [ GITHUB CONTRIBUTION SNAKE NOT FOUND ]
+  </text>
+  <text x="400" y="90" font-family="Courier New, monospace" font-size="14" fill="#E2E8F0" text-anchor="middle">
+    Requires setting up GitHub Actions to generate "github-contribution-grid-snake-dark.svg"
+  </text>
+</svg>

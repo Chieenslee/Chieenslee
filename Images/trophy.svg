@@ -1,0 +1,9 @@
+<svg width="800" height="120" viewBox="0 0 800 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="120" rx="10" fill="#0D1117" stroke="#00FF00" stroke-dasharray="4 4"/>
+  <text x="400" y="65" font-family="Courier New, monospace" font-size="20" fill="#00FF00" text-anchor="middle">
+    [ SYSTEM LOG: GITHUB TROPHY MODULE OFFLINE (ERROR 503) ]
+  </text>
+  <text x="400" y="90" font-family="Courier New, monospace" font-size="14" fill="#94A3B8" text-anchor="middle">
+    Awaiting API reconnection...
+  </text>
+</svg>
