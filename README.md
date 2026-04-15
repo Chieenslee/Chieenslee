@@ -78,7 +78,6 @@
     </tr>
     <tr>
       <td width="30%" align="center" valign="middle" style="border-top: 1px dashed #00FF00;">
-        <img src="./Images/OS.gif" width="90" style="margin-bottom: 10px;"/>
         <br/>
         <img src="./Images/IDEs.gif" width="120"/>
       </td>
