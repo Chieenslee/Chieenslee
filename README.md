@@ -11,7 +11,9 @@
 </div>
 
 <div align="center">
-  <img src="./Images/about_me.gif" alt="About Me" width="100%" style="margin-bottom: 20px;"/>
+  <img src="./Images/sourcekey.gif" alt="About Me" width="30%" style="margin-bottom: 20px;"/>
+  <img src="./Images/about_me.gif" alt="About Me" width="23%" style="margin-bottom: 20px;"/>
+  <img src="./Images/giphyweb.gif" alt="About Me" width="35%" style="margin-bottom: 20px;"/>
 </div>
 
 <div align="center">
